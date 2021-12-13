@@ -5,7 +5,7 @@
 - 💬 Ask me about my training as a Full Stack Web Developer
 - 📫 How to reach me: ljhofer@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am bilingual in English & Spanish and used to be a Bilingual Elementary Teacher
+- ⚡ Fun fact: I am bilingual in English & Spanish and used to be an Elementary Teacher
 
 
 ## Languages & Tools 🛠
