@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on an app to share travel stories
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on an app to help track medications.
+- 🌱 I’m currently learning Java and Spring
 - 💬 Ask me about my training as a Full Stack Web Developer
 - 📫 How to reach me: ljhofer@gmail.com
 - 😄 Pronouns: She/her
